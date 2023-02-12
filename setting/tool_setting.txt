@@ -32,12 +32,14 @@ use_ssh_tonnel=no
 ssh_server_address=
 # SSHサーバーポート
 ssh_server_port=
+# SSHホストキー
+ssh_host_key=
 # SSHユーザ名
 ssh_user=
 # SSHパスワード
 ssh_password=
 # SSH鍵ファイルパス
-ssh_pkey_file_pass=
+ssh_pkey_file_path=
 # SSHサーバから見た接続先サーバのアドレス
 ssh_remote_bind_address=
 # SSHサーバから見た接続先サーバのポート
